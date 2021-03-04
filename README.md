@@ -1,3 +1,7 @@
+### Publications:
+- [English](https://towardsdatascience.com/my-pandas-cheat-sheet-b71437ab26f)
+- [Spanish](https://medium.com/linked-ciencia-de-datos/mi-gu%C3%ADa-r%C3%A1pida-de-pandas-f8c06703637)
+
 # Zen of Python
 by Tim Peters
 - Beautiful is better than ugly.
